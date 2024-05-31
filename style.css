@@ -1,0 +1,41 @@
+.main{
+    width: 30%;
+    margin: 0px auto;
+}
+.jatekter{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    min-width: 300px;
+    min-height: 300px;
+}
+.lampa{
+    border-radius: 90px;
+    width: 35px;
+    height: 35px;
+    border: 1px solid black;
+    margin: auto;
+}
+.zoldpont{
+    color: green;
+    margin: auto;
+}
+.sarga{
+    background-color: yellow;
+}
+.zold{
+    background-color: green;
+}
+.ujjatek{
+    margin: auto;
+}
+.iranyit p{
+    margin: auto;
+    text-align: center;
+}
+.iranyit{
+    display: grid;
+    grid-template-columns: repeat(1);
+}
+.center{
+    text-align: center;
+}
